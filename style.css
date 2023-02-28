@@ -146,3 +146,8 @@ span {
 span:hover {
 	color: black;
 }
+
+.captura {
+	width: 30%;
+	height: auto;
+}
