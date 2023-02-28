@@ -23,6 +23,7 @@ body {
 }
 
 .main-header {
+	border-bottom: 2px solid #ffffff;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
@@ -64,7 +65,7 @@ body {
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 	border-style: solid;
-	border-color: rgb(0, 0, 0);
+	border-color: rgb(31, 168, 247);
 }
 
 .welcome-text h1 {
