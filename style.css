@@ -50,7 +50,6 @@ body {
 .contact:hover {
 	background-color: #ffffff;
 	color: black;
-	text-decoration: underline;
 }
 .main-div {
 	display: flex;
