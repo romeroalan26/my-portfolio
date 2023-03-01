@@ -73,6 +73,7 @@ body {
 	margin-top: 0;
 }
 .welcome-text {
+	word-wrap: break-word;
 	z-index: 0;
 	border-left: 2px solid;
 	border-right: 2px solid;
@@ -83,14 +84,14 @@ body {
 	border-top: 9px solid rgb(0, 0, 0);
 	background-color: #ffffff;
 	width: 30%;
-	min-width: 250px;
+	min-width: 280px;
 	font-size: 20px;
 	/* margin-left: 2%;
 	margin-right: 2%; */
 	padding-bottom: 20px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-top: 200px;
+	margin-top: 190px;
 }
 
 .learn-more {
@@ -156,7 +157,7 @@ a:active {
 }
 
 span {
-	color: rgb(0, 0, 0);
+	color: #ff0000;
 	font-size: 16px;
 	font-weight: bold;
 }
