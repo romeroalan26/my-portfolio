@@ -19,6 +19,7 @@ body {
 	flex-direction: row;
 	justify-content: center;
 }
+
 .home,
 .about-me,
 .projects,
@@ -36,6 +37,7 @@ body {
 	transition: 0.25s;
 	border-radius: 10px;
 }
+
 .home:hover,
 .about-me:hover,
 .projects:hover,
@@ -43,6 +45,7 @@ body {
 	background-color: #ffffff;
 	color: black;
 }
+
 .main-div {
 	display: flex;
 	flex-direction: row;
@@ -66,6 +69,7 @@ body {
 .welcome-text h1 {
 	margin-top: 0;
 }
+
 .welcome-text {
 	word-wrap: break-word;
 	z-index: 0;
